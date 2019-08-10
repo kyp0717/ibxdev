@@ -5,10 +5,11 @@ package accounts
 
 import (
 	"fmt"
+	"io"
 	"io/ioutil"
 	// "log"
 	"crypto/tls"
-	"encoding/json"
+	//"encoding/json"
 	"github.com/fatih/color"
 	"net/http"
 )
@@ -17,7 +18,7 @@ func setPolicy() {
 	http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
 }
 
-func IbGet(url) ([]byte, error) {
+func IbGet(url string) ([]byte, error) {
 	setPolicy()
 	resp, err := http.Get(url)
 	if err != nil {
@@ -28,7 +29,7 @@ func IbGet(url) ([]byte, error) {
 	return data, err
 }
 
-func IbPost(url, reqjson) ([]byte, error) {
+func IbPost(url string, reqjson io.Reader) ([]byte, error) {
 	setPolicy()
 	resp, err := http.Post(url, "application/json", reqjson)
 	if err != nil {
