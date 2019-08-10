@@ -1,7 +1,7 @@
 /******
 
 *****/
-package accounts
+package webapi
 
 import (
 	"fmt"
@@ -10,7 +10,7 @@ import (
 	// "log"
 	"crypto/tls"
 	//"encoding/json"
-	"github.com/fatih/color"
+	//"github.com/fatih/color"
 	"net/http"
 )
 
@@ -38,9 +38,4 @@ func IbPost(url string, reqjson io.Reader) ([]byte, error) {
 	defer resp.Body.Close()
 	data, err := ioutil.ReadAll(resp.Body)
 	return data, err
-}
-
-func (a IbAccunts) Print() {
-	cyan := color.New(color.FgCyan).SprintFunc()
-	fmt.Printf(" Accounts: %s \n", cyan(a.Accounts))
 }
