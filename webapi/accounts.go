@@ -8,35 +8,41 @@ import (
 	// "log"
 	"encoding/json"
 	"github.com/fatih/color"
+	"os"
 )
 
 // Account API - 8 endpoints total
 // Get Brokerage Acct
-const AcctURL = "/iserver/accounts"
-const BaseURL = "https://localhost:5000/v1/portal"
 
-type IbAccunts struct {
+var AcctNum string
+
+type IbAccounts struct {
 	Accounts []string `json:"accounts"`
 	Aliases  struct {
 	} `json:"aliases"`
 	SelectedAccount string `json:"selectedAccount"`
 }
 
-func GetAccts2() {
-	url := BaseURL + AcctURL
+func GetAccts() IbAccounts {
+	url := UrlBase + UrlAccounts
 	data, _ := IbGet(url)
-	var accts IbAccunts
+	fmt.Println(string(data))
+	var accts IbAccounts
 	json.Unmarshal([]byte(data), &accts)
-	accts.Print()
+	os.Setenv("IBACCOUNT", accts.Accounts[0])
+	AcctNum = accts.Accounts[0]
+	return accts
 }
 
-func GetAccts() ([]byte, error) {
-	url := BaseURL + AcctURL
+func GetAccts_old() ([]byte, error) {
+	url := UrlBase + UrlAccounts
+	fmt.Println(url)
 	data, err := IbGet(url)
 	return data, err
 }
 
-func (a IbAccunts) Print() {
+func (a IbAccounts) Print() {
 	cyan := color.New(color.FgCyan).SprintFunc()
-	fmt.Printf(" Accounts: %s \n", cyan(a.Accounts))
+	fmt.Println("--- Account Information --- ")
+	fmt.Printf("--- Accounts: %s \n", cyan(a.Accounts[0]))
 }

@@ -65,7 +65,7 @@ func init() {
 
 func reqContract(conid string) {
 	http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
-	url := BaseURL + "iserver/contract/" + conid + "/info"
+	url := UrlBase + "iserver/contract/" + conid + "/info"
 	fmt.Println(url)
 	resp, err := http.Get(url)
 

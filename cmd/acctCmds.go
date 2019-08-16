@@ -5,7 +5,7 @@ package cmd
 
 import (
 	"fmt"
-	//"github.com/davecgh/go-spew/spew"
+	"github.com/davecgh/go-spew/spew"
 	"github.com/spf13/cobra"
 	"ibxdev/webapi"
 )
@@ -25,7 +25,9 @@ var getAcctListCmd = &cobra.Command{
 	Short: "retrieve list of IB accounts",
 	Long:  `A longer description that spans mult`,
 	Run: func(cmd *cobra.Command, args []string) {
-		webapi.GetAccts()
+		accts := webapi.GetAccts()
+		spew.Println(accts)
+		accts.Print()
 	},
 }
 
