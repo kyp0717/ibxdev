@@ -29,6 +29,6 @@ var StatusCmd = &cobra.Command{
 }
 
 func init() {
-	rootCmd.AddCommand(LogOutCmd, StatusCmd)
+	RootCmd.AddCommand(LogOutCmd, StatusCmd)
 
 }

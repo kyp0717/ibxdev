@@ -30,7 +30,7 @@ var ContractCmd = &cobra.Command{
 }
 
 func init() {
-	rootCmd.AddCommand(ContractCmd)
+	RootCmd.AddCommand(ContractCmd)
 	ContractCmd.Flags().StringP("stock", "s", "", "request stock price")
 	ContractCmd.Flags().StringP("conid", "c", "", "request instrument by contract id")
 

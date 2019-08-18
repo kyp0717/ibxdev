@@ -16,7 +16,7 @@ import (
 
 var OrderCmd = &cobra.Command{
 	Use:   "order",
-	Short: "retrieve list of IB accounts",
+	Short: "place order",
 	Long:  `A longer description that spans mult`,
 	Run: func(cmd *cobra.Command, args []string) {
 		data, _ := webapi.PlaceOrder(viper.GetString("file"))
@@ -26,8 +26,8 @@ var OrderCmd = &cobra.Command{
 }
 
 func init() {
-	rootCmd.AddCommand(OrderCmd)
+	RootCmd.AddCommand(OrderCmd)
 	OrderCmd.Flags().StringP("file", "f", "", "specify filename")
-	viper.BindPFlag("file", rootCmd.Flags().Lookup("file"))
+	viper.BindPFlag("file", RootCmd.Flags().Lookup("file"))
 
 }

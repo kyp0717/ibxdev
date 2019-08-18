@@ -43,6 +43,6 @@ var getPnLCmd = &cobra.Command{
 }
 
 func init() {
-	rootCmd.AddCommand(AccountCmd)
+	RootCmd.AddCommand(AccountCmd)
 	AccountCmd.AddCommand(getAcctListCmd)
 }
