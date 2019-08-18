@@ -14,7 +14,7 @@ import (
 // Account API - 8 endpoints total
 // Get Brokerage Acct
 
-var AcctNum string
+type AcctNum string
 
 type IbAccounts struct {
 	Accounts []string `json:"accounts"`
@@ -30,8 +30,17 @@ func GetAccts() IbAccounts {
 	var accts IbAccounts
 	json.Unmarshal([]byte(data), &accts)
 	os.Setenv("IBACCOUNT", accts.Accounts[0])
-	AcctNum = accts.Accounts[0]
+	//AcctNum = accts.Accounts[0]
 	return accts
+}
+
+func GetAcctNum() string {
+	url := UrlBase + UrlAccounts
+	data, _ := IbGet(url)
+	var accts IbAccounts
+	json.Unmarshal([]byte(data), &accts)
+	s := accts.Accounts[0]
+	return s
 }
 
 func GetAccts_old() ([]byte, error) {

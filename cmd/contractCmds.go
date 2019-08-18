@@ -22,26 +22,15 @@ var ContractCmd = &cobra.Command{
 		}
 		conid, _ := cmd.Flags().GetString("conid")
 		if conid != "" {
-			data, _ := webapi.CtxInfo(conid)
-			fmt.Print(string(data))
+			data := webapi.GetCtxInfo(conid)
+			spew.Dump(data)
 		}
 
 	},
 }
 
-var CtxInfoCmd = &cobra.Command{
-	Use:   "info",
-	Short: "request contract for instruments",
-	Long:  `A longer description that spans mult`,
-	Run: func(cmd *cobra.Command, args []string) {
-		data := webapi.CtxInfo()
-		spew.Print(data)
-	},
-}
-
 func init() {
 	rootCmd.AddCommand(ContractCmd)
-	rootCmd.AddCommand(CtxInfoCmd)
 	ContractCmd.Flags().StringP("stock", "s", "", "request stock price")
 	ContractCmd.Flags().StringP("conid", "c", "", "request instrument by contract id")
 

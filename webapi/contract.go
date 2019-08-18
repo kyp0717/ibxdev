@@ -50,7 +50,7 @@ func SearchSymbol(symbol string) ([]byte, error) {
 
 }
 
-func GetByConID(conid string) ContractInfo {
+func GetCtxInfo(conid string) ContractInfo {
 	url := UrlBase + "iserver/contract/" + conid + "/info"
 	data, err := IbGet(url)
 	internal.CheckErr(err)

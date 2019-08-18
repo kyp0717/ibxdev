@@ -1,0 +1,16 @@
+---
+acctId: 
+conid: 
+secType: 
+cOID: 10
+parentId: 
+orderType: LMT
+listingExchange: SMART
+outsideRTH: true
+price: 400 
+side:  BUY
+ticker: AAPL
+tif: DAY
+referrer: 
+quantity: 10
+useAdaptive: true
