@@ -1,0 +1,1270 @@
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /scripts/common/js/switchery.min.js
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /sso/CombineFiles
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+-> client POST /sso/Authenticator?20190, redirectTo /sso/Authenticator?20190
+<- 200 POST /sso/Authenticator?20190
+-> client POST /sso/Authenticator?20868, redirectTo /sso/Authenticator?20868
+<- 200 POST /sso/Authenticator?20868
+-> client POST /sso/Authenticator?73608, redirectTo /sso/Authenticator?73608
+<- 200 POST /sso/Authenticator?73608
+-> client POST /sso/Authenticator?39412, redirectTo /sso/Authenticator?39412
+<- 200 POST /sso/Authenticator?39412
+-> client POST /sso/Authenticator?16002, redirectTo /sso/Authenticator?16002
+<- 200 POST /sso/Authenticator?16002
+-> client POST /sso/Authenticator?59936, redirectTo /sso/Authenticator?59936
+<- 200 POST /sso/Authenticator?59936
+-> client POST /sso/Dispatcher, redirectTo /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /portal.proxy/v1/portal/sso/validate?gw=1
+-> request: /AccountManagement/OneBarAuthentication?json=1
+-> GET /portal.proxy/v1/portal/sso/validate?gw=1,200|128ms
+-> request: /portal.proxy/v1/portal/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /portal.proxy/v1/portal/one/user,200|56ms
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=cdfd0730e39655db8f950a7f6a3b779e25e4139436f9a2a1bf84aa1903b254a43a4e878445e65a2a3b38cae7fa426d22264dd148062238dac1abafebccd0877b&CHRESPONSE=b91bb15064074db183150a79d7d5087dafc5a547
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=cdfd0730e39655db8f950a7f6a3b779e25e4139436f9a2a1bf84aa1903b254a43a4e878445e65a2a3b38cae7fa426d22264dd148062238dac1abafebccd0877b&CHRESPONSE=b91bb15064074db183150a79d7d5087dafc5a547
+-> GET /AccountManagement/OneBarAuthentication?json=1,200|337ms
+-> request: /AccountManagement/OneBarPicker/Picker/Info
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=cdfd0730e39655db8f950a7f6a3b779e25e4139436f9a2a1bf84aa1903b254a43a4e878445e65a2a3b38cae7fa426d22264dd148062238dac1abafebccd0877b&CHRESPONSE=b91bb15064074db183150a79d7d5087dafc5a547
+-> GET /AccountManagement/OneBarPicker/Picker/Info,200|65ms
+-> request: /AccountManagement/OneBarPicker/Picker/Data
+-> GET /AccountManagement/OneBarPicker/Picker/Data,200|81ms
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|41ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/init
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/init,200|59ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/response
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/response,200|46ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|42ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|120ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|139ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|39ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-google.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+-> client POST /sso/Authenticator?26201, redirectTo /sso/Authenticator?26201
+<- 200 POST /sso/Authenticator?26201
+-> client POST /sso/Authenticator?60431, redirectTo /sso/Authenticator?60431
+<- 200 POST /sso/Authenticator?60431
+-> client POST /sso/Authenticator?23416, redirectTo /sso/Authenticator?23416
+<- 200 POST /sso/Authenticator?23416
+-> client POST /sso/Authenticator?61264, redirectTo /sso/Authenticator?61264
+<- 200 POST /sso/Authenticator?61264
+-> client POST /sso/Authenticator?6624, redirectTo /sso/Authenticator?6624
+<- 200 POST /sso/Authenticator?6624
+-> client POST /sso/Authenticator?72716, redirectTo /sso/Authenticator?72716
+<- 200 POST /sso/Authenticator?72716
+-> client POST /sso/Authenticator?18644, redirectTo /sso/Authenticator?18644
+<- 200 POST /sso/Authenticator?18644
+-> client POST /sso/Dispatcher, redirectTo /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /portal.proxy/v1/portal/sso/validate?gw=1
+-> request: /AccountManagement/OneBarAuthentication?json=1
+-> GET /portal.proxy/v1/portal/sso/validate?gw=1,200|127ms
+-> request: /portal.proxy/v1/portal/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /portal.proxy/v1/portal/one/user,200|55ms
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=677f8bf187f0ee98925b776a3bbd5adcfeb234fdac143bd8c2136f9dd5edd0c6005beda508b463ddc13b73ead04933bae8441463fdf739974c4d072f6532545d&CHRESPONSE=242238d0a26f2948d230dc354874c2205c2a7925
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=677f8bf187f0ee98925b776a3bbd5adcfeb234fdac143bd8c2136f9dd5edd0c6005beda508b463ddc13b73ead04933bae8441463fdf739974c4d072f6532545d&CHRESPONSE=242238d0a26f2948d230dc354874c2205c2a7925
+-> GET /AccountManagement/OneBarAuthentication?json=1,200|367ms
+-> request: /AccountManagement/OneBarPicker/Picker/Info
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=677f8bf187f0ee98925b776a3bbd5adcfeb234fdac143bd8c2136f9dd5edd0c6005beda508b463ddc13b73ead04933bae8441463fdf739974c4d072f6532545d&CHRESPONSE=242238d0a26f2948d230dc354874c2205c2a7925
+-> GET /AccountManagement/OneBarPicker/Picker/Info,200|43ms
+-> request: /AccountManagement/OneBarPicker/Picker/Data
+-> GET /AccountManagement/OneBarPicker/Picker/Data,200|44ms
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|42ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/init
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/init,200|59ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/response
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/response,200|47ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|45ms
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /scripts/common/js/switchery.min.js
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /sso/CombineFiles
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /scripts/common/js/switchery.min.js
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-google.png
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /sso/CombineFiles
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/ib-common.css
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-google.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/login.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client POST /sso/Authenticator?284, redirectTo /sso/Authenticator?284
+<- 200 POST /sso/Authenticator?284
+-> client POST /sso/Authenticator?36044, redirectTo /sso/Authenticator?36044
+<- 200 POST /sso/Authenticator?36044
+-> client POST /sso/Authenticator?95624, redirectTo /sso/Authenticator?95624
+<- 200 POST /sso/Authenticator?95624
+-> client POST /sso/Authenticator?85684, redirectTo /sso/Authenticator?85684
+<- 200 POST /sso/Authenticator?85684
+-> client POST /sso/Authenticator?20531, redirectTo /sso/Authenticator?20531
+<- 200 POST /sso/Authenticator?20531
+-> client POST /sso/Authenticator?83084, redirectTo /sso/Authenticator?83084
+<- 200 POST /sso/Authenticator?83084
+-> client POST /sso/Dispatcher, redirectTo /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /portal.proxy/v1/portal/sso/validate?gw=1
+-> request: /AccountManagement/OneBarAuthentication?json=1
+-> GET /portal.proxy/v1/portal/sso/validate?gw=1,200|113ms
+-> request: /portal.proxy/v1/portal/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /portal.proxy/v1/portal/one/user,200|90ms
+-> GET /AccountManagement/OneBarAuthentication?json=1,200|362ms
+-> request: /AccountManagement/OneBarPicker/Picker/Info
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=1be5e226c31c139e23dd096efeae900129cf619552efa5e97c553f6b8e385a91e1f542ecfc5a032db26ef718b61da312c761a5874cb396d01e3fca8cb5bc6c59&CHRESPONSE=4d86154df202857604529205f1153adaa3c97b00
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=1be5e226c31c139e23dd096efeae900129cf619552efa5e97c553f6b8e385a91e1f542ecfc5a032db26ef718b61da312c761a5874cb396d01e3fca8cb5bc6c59&CHRESPONSE=4d86154df202857604529205f1153adaa3c97b00
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=1be5e226c31c139e23dd096efeae900129cf619552efa5e97c553f6b8e385a91e1f542ecfc5a032db26ef718b61da312c761a5874cb396d01e3fca8cb5bc6c59&CHRESPONSE=4d86154df202857604529205f1153adaa3c97b00
+-> GET /AccountManagement/OneBarPicker/Picker/Info,200|64ms
+-> request: /AccountManagement/OneBarPicker/Picker/Data
+-> GET /AccountManagement/OneBarPicker/Picker/Data,200|66ms
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|44ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/init
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/init,200|63ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/response
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/response,200|55ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|35ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|144ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|143ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|35ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|192ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|192ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|39ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|121ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|127ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|178ms
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /sso/CombineFiles
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-tws.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US?user_name=phage717, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US?user_name=phage717
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US?user_name=phage717
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /sso/CombineFiles
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /stylesheet/web/login.css
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /sso/CombineFiles
+-> client POST /sso/Authenticator?71046, redirectTo /sso/Authenticator?71046
+<- 200 POST /sso/Authenticator?71046
+-> client POST /sso/Authenticator?65872, redirectTo /sso/Authenticator?65872
+<- 200 POST /sso/Authenticator?65872
+-> client POST /sso/Authenticator?14844, redirectTo /sso/Authenticator?14844
+<- 200 POST /sso/Authenticator?14844
+-> client POST /sso/Authenticator?37431, redirectTo /sso/Authenticator?37431
+<- 200 POST /sso/Authenticator?37431
+-> client POST /sso/Authenticator?11389, redirectTo /sso/Authenticator?11389
+<- 200 POST /sso/Authenticator?11389
+-> client POST /sso/Authenticator?51308, redirectTo /sso/Authenticator?51308
+<- 200 POST /sso/Authenticator?51308
+-> client POST /sso/Dispatcher, redirectTo /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /portal.proxy/v1/portal/sso/validate?gw=1
+-> request: /AccountManagement/OneBarAuthentication?json=1
+-> GET /portal.proxy/v1/portal/sso/validate?gw=1,200|113ms
+-> request: /portal.proxy/v1/portal/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /portal.proxy/v1/portal/one/user,200|65ms
+-> GET /AccountManagement/OneBarAuthentication?json=1,200|313ms
+-> request: /AccountManagement/OneBarPicker/Picker/Info
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=62e68bd0eecf7cfd31a9a6ef6356d91fc1bbee2769304144d12f5c65db22833ed26413e197fdf3dec4c7549260493e96dbbd22044b2d6119b3cc1d0fc1a9dfde&CHRESPONSE=287df7fbd4a2623585a694297d9afa6017e18f61
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=62e68bd0eecf7cfd31a9a6ef6356d91fc1bbee2769304144d12f5c65db22833ed26413e197fdf3dec4c7549260493e96dbbd22044b2d6119b3cc1d0fc1a9dfde&CHRESPONSE=287df7fbd4a2623585a694297d9afa6017e18f61
+-> GET /AccountManagement/OneBarPicker/Picker/Info,200|65ms
+-> request: /AccountManagement/OneBarPicker/Picker/Data
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=62e68bd0eecf7cfd31a9a6ef6356d91fc1bbee2769304144d12f5c65db22833ed26413e197fdf3dec4c7549260493e96dbbd22044b2d6119b3cc1d0fc1a9dfde&CHRESPONSE=287df7fbd4a2623585a694297d9afa6017e18f61
+-> GET /AccountManagement/OneBarPicker/Picker/Data,200|61ms
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|43ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/init
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/init,200|62ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/response
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/response,200|43ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|39ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|124ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|122ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|88ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|115ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|123ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|92ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|314ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|328ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|104ms
+-> client POST /v1/portal/iserver/secdef/search, redirectTo /portal.proxy/v1/portal/iserver/secdef/search
+<- 200 POST /v1/portal/iserver/secdef/search
+-> client POST /v1/portal/iserver/secdef/search, redirectTo /portal.proxy/v1/portal/iserver/secdef/search
+<- 500 POST /v1/portal/iserver/secdef/search
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|99ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|107ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|29ms
+-> client POST /v1/portal/iserver/secdef/search, redirectTo /portal.proxy/v1/portal/iserver/secdef/search
+<- 500 POST /v1/portal/iserver/secdef/search
+-> client POST /v1/portal/iserver/secdef/search, redirectTo /portal.proxy/v1/portal/iserver/secdef/search
+<- 200 POST /v1/portal/iserver/secdef/search
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|118ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|123ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|95ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|129ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|131ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|33ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|176ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|133ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|85ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|119ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|122ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|33ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|121ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|142ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|30ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|135ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|146ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|87ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|135ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|149ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|30ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|123ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|122ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|96ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|751ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|754ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|928ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|118ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|127ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|110ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|122ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|107ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|113ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|116ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|29ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|124ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|124ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|41ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|143ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|148ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|91ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|112ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|127ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|31ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|477ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|782ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|75ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|128ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|127ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|378ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|511ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|408ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|118ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|122ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|33ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|116ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|116ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|32ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|192ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|204ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|115ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|480ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|488ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|40ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|783ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|789ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|95ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|130ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|143ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|96ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|121ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|128ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|98ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|1411ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|1479ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|33ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|118ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|140ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|292ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|130ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|136ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|37ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|343ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|349ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|87ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|112ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|128ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|37ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|120ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|129ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|133ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|146ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|115ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|122ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|32ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|176ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|180ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|86ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|120ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|125ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|53ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|110ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|477ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|365ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|127ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|125ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|102ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|126ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|145ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|37ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|126ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|139ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|38ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|118ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|117ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|112ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|121ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|31ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|115ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|123ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|100ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|212ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|212ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|86ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|157ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|181ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|31ms
+-> client GET /v1/portal/iserver/accounts, redirectTo /portal.proxy/v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|71ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|124ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|43ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|125ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|123ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|48ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|130ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|129ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|32ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|127ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|135ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|92ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|131ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|160ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|149ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|124ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|234ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|118ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|128ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|102ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|126ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|129ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms

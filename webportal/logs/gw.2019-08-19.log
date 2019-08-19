@@ -1,0 +1,54 @@
+08:33:41.033 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     :  -> mount demo on /demo
+08:33:41.056 INFO  vert.x-eventloop-thread-0 GatewayVerticle      : version: 7bf90feaf8d4ebc635bb324b78b477f1800d1a86 Tue, 16 Jul 2019 12:10:14 -0400
+08:33:41.056 INFO  vert.x-eventloop-thread-0 GatewayVerticle      : Java Version: 12.0.2
+08:33:46.139 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US->/sso/Login?forwardTo=22&RL=1&ip2loc=US,200|230ms
+08:33:46.140 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [XYZAB_AM.LOGIN=""; Domain=.interactivebrokers.com; Path=/; Secure;Secure, XYZAB=""; Domain=.interactivebrokers.com; Path=/; Secure;Secure, URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; Version=1; Domain=.interactivebrokers.com; Path=/; Secure;Secure;HttpOnly, RL=1; Domain=.interactivebrokers.com; Path=/; Secure;Secure;HttpOnly, JSESSIONID=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1; Path=/sso; Secure; HttpOnly;Secure, BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure]
+08:33:46.144 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [XYZAB_AM.LOGIN=""; Domain=.interactivebrokers.com; Path=/; Secure;Secure, XYZAB=""; Domain=.interactivebrokers.com; Path=/; Secure;Secure, URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; Version=1; Domain=.interactivebrokers.com; Path=/; Secure;Secure;HttpOnly, RL=1; Domain=.interactivebrokers.com; Path=/; Secure;Secure;HttpOnly, JSESSIONID=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1; Path=/sso; Secure; HttpOnly;Secure, BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure] -> 
+08:33:46.284 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /stylesheet/web/bootstrap.v3.3.6.css->/stylesheet/web/bootstrap.v3.3.6.css,200|57ms
+08:33:46.350 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css->/stylesheet/web/bootstrap-switch.v3.3.2.min.css,200|119ms
+08:33:46.350 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure]
+08:33:46.350 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure] -> 
+08:33:46.353 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /stylesheet/web/font-awesome.v4.7.0.css->/stylesheet/web/font-awesome.v4.7.0.css,200|88ms
+08:33:46.354 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure]
+08:33:46.354 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure] -> 
+08:33:46.356 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /stylesheet/web/ib-common.css->/stylesheet/web/ib-common.css,200|81ms
+08:33:46.356 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure]
+08:33:46.356 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure] -> 
+08:33:46.398 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /stylesheet/web/switchery.min.css->/stylesheet/web/switchery.min.css,200|128ms
+08:33:46.399 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure]
+08:33:46.399 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure] -> 
+08:33:46.400 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /stylesheet/web/login.css->/stylesheet/web/login.css,200|121ms
+08:33:46.414 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /scripts/common/js/2015/jquery.min.js->/scripts/common/js/2015/jquery.min.js,200|39ms
+08:33:46.429 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /scripts/common/js/jquery-ui-1.12.1.min.js->/scripts/common/js/jquery-ui-1.12.1.min.js,200|40ms
+08:33:46.454 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /scripts/common/js/2015/bootstrap.min.js->/scripts/common/js/2015/bootstrap.min.js,200|52ms
+08:33:46.461 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /scripts/common/js/2015/bootstrap-switch.min.js->/scripts/common/js/2015/bootstrap-switch.min.js,200|29ms
+08:33:46.496 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /scripts/common/js/switchery.min.js->/scripts/common/js/switchery.min.js,200|63ms
+08:33:46.502 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/CombineFiles->/sso/CombineFiles,200|35ms
+08:33:46.506 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/btn-app-apple.png->/images/2015/btn-app-apple.png,200|32ms
+08:33:46.553 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/btn-app-google.png->/images/2015/btn-app-google.png,200|69ms
+08:33:46.558 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/btn-app-tws.png->/images/2015/btn-app-tws.png,200|31ms
+08:33:46.591 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/button_discover_apis.png->/images/2015/button_discover_apis.png,200|30ms
+08:33:46.691 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/template/logo-ib-ibkr-txtwht.svg->/images/2015/template/logo-ib-ibkr-txtwht.svg,200|26ms
+08:33:46.733 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/template/logo-ib-ibkr-txtblk.svg->/images/2015/template/logo-ib-ibkr-txtblk.svg,200|28ms
+08:33:46.758 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /fonts/Proxima-Nova-Light.woff2->/fonts/Proxima-Nova-Light.woff2,200|28ms
+08:33:46.765 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /fonts/Proxima-Nova-Semibold.woff2->/fonts/Proxima-Nova-Semibold.woff2,200|32ms
+08:33:46.767 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /fonts/Proxima-Nova-Regular.woff2->/fonts/Proxima-Nova-Regular.woff2,200|32ms
+08:33:46.773 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /fonts/fontawesome-webfont.woff2?v=4.6.1->/fonts/fontawesome-webfont.woff2?v=4.6.1,200|41ms
+08:33:46.873 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/template/home-screen-icon-128x128.png->/images/2015/template/home-screen-icon-128x128.png,200|24ms
+08:33:46.977 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?51294->/sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?51294,200|49ms
+08:33:47.058 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?99540->/sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?99540,200|42ms
+08:33:47.106 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?66790->/sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?66790,200|40ms
+08:33:47.148 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?44336->/sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?44336,200|34ms
+08:33:52.266 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?63660->/sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?63660,200|114ms
+08:33:52.267 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure]
+08:33:52.267 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerndcdyn.interactivebrokers.com_443_burrito_pool=207899914.47873.0000; path=/; Httponly, BIGipServerndcdyn.interactivebrokers.com_443_pool=185862666.47873.0000; path=/; Httponly; Secure] -> 
+08:44:05.224 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     :  -> mount demo on /demo
+08:44:05.242 INFO  vert.x-eventloop-thread-0 GatewayVerticle      : version: 7bf90feaf8d4ebc635bb324b78b477f1800d1a86 Tue, 16 Jul 2019 12:10:14 -0400
+08:44:05.242 INFO  vert.x-eventloop-thread-0 GatewayVerticle      : Java Version: 12.0.2
+08:44:05.333 ERROR vert.x-eventloop-thread-0 DeploymentManager    : Address already in use
+io.vertx.core.impl.NoStackTraceThrowable: Address already in use
+08:44:52.304 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     :  -> mount demo on /demo
+08:44:52.330 INFO  vert.x-eventloop-thread-0 GatewayVerticle      : version: 7bf90feaf8d4ebc635bb324b78b477f1800d1a86 Tue, 16 Jul 2019 12:10:14 -0400
+08:44:52.330 INFO  vert.x-eventloop-thread-0 GatewayVerticle      : Java Version: 12.0.2
+08:44:52.416 ERROR vert.x-eventloop-thread-0 DeploymentManager    : Address already in use
+io.vertx.core.impl.NoStackTraceThrowable: Address already in use

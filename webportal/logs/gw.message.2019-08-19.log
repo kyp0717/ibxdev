@@ -1,0 +1,58 @@
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/ib-common.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+<- 200 GET /scripts/common/js/switchery.min.js
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /images/2015/template/home-screen-icon-128x128.png, redirectTo /images/2015/template/home-screen-icon-128x128.png
+<- 200 GET /images/2015/template/home-screen-icon-128x128.png
+-> client POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?51294, redirectTo /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?51294
+<- 200 POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?51294
+-> client POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?99540, redirectTo /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?99540
+<- 200 POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?99540
+-> client POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?66790, redirectTo /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?66790
+<- 200 POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?66790
+-> client POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?44336, redirectTo /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?44336
+<- 200 POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?44336
+-> client POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?63660, redirectTo /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?63660
+<- 200 POST /sso/Authenticator;jsessionid=0182D0E32FC13CD77B55008E09EED0EE.ny5wwwsso1?63660

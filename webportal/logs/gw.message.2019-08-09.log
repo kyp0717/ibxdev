@@ -1,0 +1,358 @@
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /sso/Login?forwardTo=22&RL=1&ip2loc=US, redirectTo /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /stylesheet/web/bootstrap.v3.3.6.css, redirectTo /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css, redirectTo /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/font-awesome.v4.7.0.css, redirectTo /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /stylesheet/web/switchery.min.css, redirectTo /stylesheet/web/switchery.min.css
+-> client GET /stylesheet/web/ib-common.css, redirectTo /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/bootstrap.v3.3.6.css
+<- 200 GET /stylesheet/web/bootstrap-switch.v3.3.2.min.css
+-> client GET /stylesheet/web/login.css, redirectTo /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/jquery.min.js, redirectTo /scripts/common/js/2015/jquery.min.js
+<- 200 GET /stylesheet/web/switchery.min.css
+-> client GET /scripts/common/js/jquery-ui-1.12.1.min.js, redirectTo /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /stylesheet/web/font-awesome.v4.7.0.css
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /stylesheet/web/ib-common.css
+<- 200 GET /stylesheet/web/login.css
+-> client GET /scripts/common/js/2015/bootstrap.min.js, redirectTo /scripts/common/js/2015/bootstrap.min.js
+<- 200 GET /scripts/common/js/2015/jquery.min.js
+<- 200 GET /scripts/common/js/jquery-ui-1.12.1.min.js
+<- 200 GET /sso/CombineFiles
+-> client GET /scripts/common/js/2015/bootstrap-switch.min.js, redirectTo /scripts/common/js/2015/bootstrap-switch.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /scripts/common/js/2015/bootstrap-switch.min.js
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/switchery.min.js
+-> client GET /scripts/common/js/switchery.min.js, redirectTo /scripts/common/js/switchery.min.js
+<- 200 GET /images/2015/btn-app-apple.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-apple.png, redirectTo /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/switchery.min.js
+<- 200 GET /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-google.png, redirectTo /images/2015/btn-app-google.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /images/2015/btn-app-google.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+-> client GET /sso/CombineFiles, redirectTo /sso/CombineFiles
+<- 200 GET /images/2015/btn-app-tws.png
+-> client GET /images/2015/btn-app-tws.png, redirectTo /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/button_discover_apis.png, redirectTo /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /sso/CombineFiles
+<- 200 GET /images/2015/button_discover_apis.png
+-> client GET /images/2015/template/logo-ib-ibkr-txtwht.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> client GET /images/2015/template/logo-ib-ibkr-txtblk.svg, redirectTo /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> client GET /fonts/Proxima-Nova-Light.woff2, redirectTo /fonts/Proxima-Nova-Light.woff2
+-> client GET /fonts/fontawesome-webfont.woff2?v=4.6.1, redirectTo /fonts/fontawesome-webfont.woff2?v=4.6.1
+-> client GET /fonts/Proxima-Nova-Semibold.woff2, redirectTo /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /fonts/Proxima-Nova-Regular.woff2, redirectTo /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /fonts/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/fontawesome-webfont.woff2?v=4.6.1
+<- 200 GET /fonts/Proxima-Nova-Light.woff2
+<- 200 GET /fonts/Proxima-Nova-Semibold.woff2
+-> client GET /images/2015/template/home-screen-icon-128x128.png, redirectTo /images/2015/template/home-screen-icon-128x128.png
+<- 200 GET /images/2015/template/home-screen-icon-128x128.png
+-> client POST /sso/Authenticator?69957, redirectTo /sso/Authenticator?69957
+<- 200 POST /sso/Authenticator?69957
+-> client POST /sso/Authenticator?28114, redirectTo /sso/Authenticator?28114
+<- 200 POST /sso/Authenticator?28114
+-> client POST /sso/Authenticator?23475, redirectTo /sso/Authenticator?23475
+<- 200 POST /sso/Authenticator?23475
+-> client POST /sso/Authenticator?28774, redirectTo /sso/Authenticator?28774
+<- 200 POST /sso/Authenticator?28774
+-> client POST /sso/Authenticator?99927, redirectTo /sso/Authenticator?99927
+<- 200 POST /sso/Authenticator?99927
+-> client POST /sso/Authenticator?4451, redirectTo /sso/Authenticator?4451
+<- 200 POST /sso/Authenticator?4451
+-> client POST /sso/Authenticator?77281, redirectTo /sso/Authenticator?77281
+<- 200 POST /sso/Authenticator?77281
+-> client POST /sso/Dispatcher, redirectTo /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /portal.proxy/v1/portal/sso/validate?gw=1
+-> request: /AccountManagement/OneBarAuthentication?json=1
+-> GET /portal.proxy/v1/portal/sso/validate?gw=1,200|1219ms
+-> request: /portal.proxy/v1/portal/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /portal.proxy/v1/portal/one/user,200|69ms
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=INIT
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=57a448dbcf4416336861b06207733385d768e8ab63bd718a834f67185185dd94b46e4e729f191940ca6d886b1e2ca0fae81a67f33f6a63970b08e42f122a51ef&CHRESPONSE=e4d5c0dd29d8bff9fb52394dedc3e520c7bd009d
+-> sso GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=57a448dbcf4416336861b06207733385d768e8ab63bd718a834f67185185dd94b46e4e729f191940ca6d886b1e2ca0fae81a67f33f6a63970b08e42f122a51ef&CHRESPONSE=e4d5c0dd29d8bff9fb52394dedc3e520c7bd009d
+<- 200 GET https://ndcdyn.interactivebrokers.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=57a448dbcf4416336861b06207733385d768e8ab63bd718a834f67185185dd94b46e4e729f191940ca6d886b1e2ca0fae81a67f33f6a63970b08e42f122a51ef&CHRESPONSE=e4d5c0dd29d8bff9fb52394dedc3e520c7bd009d
+-> GET /AccountManagement/OneBarAuthentication?json=1,200|1529ms
+-> request: /AccountManagement/OneBarPicker/Picker/Info
+-> GET /AccountManagement/OneBarPicker/Picker/Info,200|67ms
+-> request: /AccountManagement/OneBarPicker/Picker/Data
+-> GET /AccountManagement/OneBarPicker/Picker/Data,200|67ms
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|41ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/init
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/init,200|90ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/response
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/response,200|1130ms
+-> request: /portal.proxy/v1/portal/iserver/auth/ssodh/init
+-> POST https://ndcdyn.interactivebrokers.com/portal.proxy/v1/portal/iserver/auth/ssodh/init,200|48ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|31ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|145ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|169ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|103ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|147ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|147ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|96ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|142ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|146ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|99ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|1260ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|1263ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|41ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|126ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|126ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|32ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|130ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|138ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|95ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|110ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|135ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|114ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|133ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|142ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|103ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|1176ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|4258ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|3125ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|135ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|165ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|96ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|143ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|148ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|96ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|136ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|149ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|85ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|159ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|165ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|102ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|132ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|138ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|123ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|136ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|111ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|154ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|170ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|101ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|116ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|126ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|110ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|126ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|132ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|87ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|140ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|139ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|42ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|164ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|170ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|116ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|2154ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|2243ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|39ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|149ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|152ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|40ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|1158ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|1159ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|1098ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|121ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|126ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|34ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|143ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|150ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|88ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|327ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|1217ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|44ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|127ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|143ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|46ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|157ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|127ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|76ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|130ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|142ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|90ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|1360ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|1373ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|1113ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|125ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|132ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|43ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|121ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|146ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|38ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|132ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|149ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|41ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|115ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|124ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|91ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|121ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|127ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|94ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|146ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|151ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|109ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|467ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|493ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|611ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|113ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/tickle,200|115ms
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|83ms
+-> request: /portal.proxy/v1/portal/tickle
+-> request: /portal.proxy/v1/portal/iserver/auth/status
+-> GET /portal.proxy/v1/portal/tickle,200|138ms
+-> GET /portal.proxy/v1/portal/iserver/auth/status,200|122ms
+-> request: /portal.proxy/v1/portal/iserver/accounts
+-> GET /portal.proxy/v1/portal/iserver/accounts,200|36ms
